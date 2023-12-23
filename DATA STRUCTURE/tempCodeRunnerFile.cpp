@@ -1,0 +1,2 @@
+deleteAtHead(head);
+    
